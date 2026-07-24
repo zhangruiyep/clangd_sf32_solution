@@ -352,6 +352,7 @@ CompileFlags:
     - "-IE:/work/gerrit/SF32LB52x/solution/components/xiaozhi"
     - "-IE:/work/gerrit/SF32LB52x/solution/examples/watch/application/aod"
     - "-IE:/work/gerrit/SF32LB52x/solution/examples/watch/application/battery"
+    - "-IE:/work/gerrit/SF32LB52x/solution/examples/watch/application/blood_glucose"
     - "-IE:/work/gerrit/SF32LB52x/solution/examples/watch/application/mainmenu/mainmenu_cellular"
     - "-IE:/work/gerrit/SF32LB52x/solution/examples/watch/application/mainmenu/mainmenu_gravity"
     - "-IE:/work/gerrit/SF32LB52x/solution/examples/watch/application/mainmenu/mainmenu_list"
