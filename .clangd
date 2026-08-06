@@ -210,6 +210,7 @@ CompileFlags:
     - "-IE:/work/gerrit/SF32LB52x/sdk/rtos/os_adaptor/src"
     - "-IE:/work/gerrit/SF32LB52x/sdk/rtos/os_adaptor/inc"
     - "-IE:/work/gerrit/SF32LB52x/sdk/rtos/rtthread/bsp/sifli/drivers"
+    - "-IE:/work/gerrit/SF32LB52x/solution/framework/dal_widget/include"
     - "-IE:/work/gerrit/SF32LB52x/solution/framework/gui_fwk/alarm_fwk"
     - "-IE:/work/gerrit/SF32LB52x/solution/framework/gui_fwk/aod_fwk"
     - "-IE:/work/gerrit/SF32LB52x/solution/framework/gui_fwk/demo_fwk"
